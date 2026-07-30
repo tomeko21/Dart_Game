@@ -1,0 +1,17 @@
+{
+    "scores": [
+        64,
+        19,
+        10,
+        2,
+        7
+    ],
+    "current_player": 2,
+    "game_mode": "HIGH",
+    "num_players": 5,
+    "start_score": 701,
+    "bg_skin": "/Users/tomekorman/Documents/PWR/Programowanie/Laboratoria/14_15_Projekt/25-project-orman-jaworski-dart/DartGame/assets/background_2.jpeg",
+    "board_skin": "/Users/tomekorman/Documents/PWR/Programowanie/Laboratoria/14_15_Projekt/25-project-orman-jaworski-dart/DartGame/assets/dartboard_2.png",
+    "input_method": "Touchpad",
+    "timestamp": "2026-02-04 13:31:26"
+}

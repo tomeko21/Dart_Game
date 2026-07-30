@@ -1,0 +1,13 @@
+{
+    "scores": [
+        0,
+        0
+    ],
+    "current_player": 0,
+    "game_mode": "HIGH",
+    "num_players": 2,
+    "start_score": 701,
+    "bg_skin": "/Users/tomekorman/Documents/PWR/Programowanie/Laboratoria/14_15_Projekt/25-project-orman-jaworski-dart/DartGame/assets/background_1.jpeg",
+    "board_skin": "/Users/tomekorman/Documents/PWR/Programowanie/Laboratoria/14_15_Projekt/25-project-orman-jaworski-dart/DartGame/assets/dartboard_1.png",
+    "timestamp": "2026-01-31 22:01:27"
+}
