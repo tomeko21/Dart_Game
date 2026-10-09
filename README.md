@@ -24,7 +24,6 @@ An interactive, real-time dart simulation application built with Python. The gam
 
 This project was engineered with a heavy focus on performance, real-time image processing, and clean architecture:
 
-* **Multi-Threaded Video Pipeline:** Camera frame ingestion is isolated into a separate thread to ensure zero UI lag and maintain continuous 60 FPS gameplay rendering.
 * **MediaPipe Gesture Recognition:** Integrated MediaPipe `Hands` and `Pose` estimation models for tracking keypoints (hips, hands, wrists) in real time.
 * **Custom AI Throw Assessment Engine:** Proprietary motion assessment module that evaluates throwing velocity, release point, aiming vector, and target hit calculation on the dartboard.
 * **Developer Debug Overlay:** Live debugging UI displaying MediaPipe keypoints, tracking lines, and bounding vectors for real-time model evaluation.
